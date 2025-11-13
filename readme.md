@@ -11,7 +11,6 @@ NetShop is a fully functional **web-based e-commerce application** built with **
 * **Shopping Cart:** Buyers can add products to the cart, update quantities, and remove items.
 * **Checkout with Stripe:** Secure payment processing via Stripe API.
 * **Order Management:** Orders are recorded in the system with full details (buyer info, products, amounts).
-* **Responsive Design:** Works on both desktop and mobile devices.
 
 ---
 
