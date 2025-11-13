@@ -24,6 +24,18 @@ NetShop is a fully functional **web-based e-commerce application** built with **
 
 ---
 
+![Main shop view](Photos/main_view.jpg)
+![Detail view](Photos/detail_view.jpg)
+![Search view](Photos/search_bar.jpg)
+![Cart_view](Photos/cart_view.jpg)
+![Checkout view](Photos/checkout_view.jpg)
+![Checkout missing value view](Photos/checkout_missing_value.jpg)
+![Stripe view](Photos/stripe_view.jpg)
+![Vendor view](Photos/vendor_view1.jpg)
+![Add item view](Photos/add_product.jpg)
+
+---
+
 ## Installation
 
 1. **Clone the repository:**
